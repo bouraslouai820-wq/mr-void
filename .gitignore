@@ -1,0 +1,20 @@
+# Jekyll build files (لو هتستخدم GitHub Pages themes)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Node.js (لو هتضيف أدوات لاحقًا)
+node_modules/
+package-lock.json
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# محررات النصوص
+.vscode/
+.idea/
+*.swp
+*~
